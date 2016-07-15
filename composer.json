@@ -24,7 +24,7 @@
     },
 
     "require-dev": {
-        "illuminate/foundation" : "~5",
+        "illuminate/foundation" : ">=5.3",
         "orchestra/testbench"   : "~2.0.0",
         "mockery/mockery"       : "~0.7.0"
     },
