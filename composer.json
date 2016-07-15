@@ -20,7 +20,7 @@
     "require": {
         "php"                : ">=5.5.9",
         "illuminate/support" : "*",
-        "bernard/bernard"    : "1.0.0-alpha2"
+        "bernard/bernard"    : "*"
     },
 
     "require-dev": {
